@@ -1,15 +1,14 @@
-La tortilla es la base de muchos platos mexicanos.
-El guacamole es un acompañamiento popular para las tortillas.
-Los tacos son rellenos con una variedad de ingredientes, incluyendo guacamole.
-La salsa picante complementa perfectamente los tacos.
-Las enchiladas son otro plato que se puede disfrutar con salsa picante.
-Los tamales son envueltos en hojas de maíz, al igual que las enchiladas.
-El pozole es una sopa tradicional que a menudo se sirve con tortillas.
-Los chiles rellenos son un plato picante y reconfortante, similar al pozole.
-El mole es una salsa compleja que se puede usar en muchos platos, como los tamales.
-Los frijoles son un acompañamiento clásico para la mayoría de los platos mexicanos.
-Las carnitas son un tipo de carne que a menudo se sirve con tortillas y frijoles.
-La barbacoa es otra opción deliciosa para llenar tortillas.
-El aguacate es un ingrediente versátil que se encuentra en muchos platos mexicanos.
-El pico de gallo es una salsa fresca que se sirve con muchos platos, incluyendo tacos y tortillas.
-La horchata es una bebida refrescante que se puede disfrutar junto con cualquier comida mexicana.
+La tortilla es base de platos mexicanos.
+El guacamole es popular con tortillas.
+Los tacos tienen variedad de ingredientes, incluso guacamole.
+La salsa picante complementa bien tacos.
+Las enchiladas son platos con salsa picante.
+Los tamales y enchiladas usan maíz.
+Los chiles rellenos son picantes y reconfortantes.
+El mole es salsa compleja para platos.
+Los frijoles son acompañamiento clásico en platos mexicanos.
+Las carnitas se comen con tortillas y frijoles.
+La barbacoa es deliciosa con tortillas.
+El aguacate se encuentra en platos mexicanos.
+El pico de gallo se sirve con varios platos, incluyendo tacos y tortillas.
+La horchata es refrescante con comida mexicana.
