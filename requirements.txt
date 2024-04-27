@@ -8,3 +8,6 @@ Fitter
 pmdarima
 jumpdiff
 tensorflow
+plotly
+nbformat
+nltk
