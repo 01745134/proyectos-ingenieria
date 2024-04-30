@@ -11,3 +11,5 @@ tensorflow
 plotly
 nbformat
 nltk
+pmdarima
+arch
